@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 
 import pandas as pd
-import pandas_profiling
+from ydata_profiling import ProfileReport
 
 import streamlit as st
 from streamlit_pandas_profiling import st_profile_report # pip install streamlit-pandas-profiling
