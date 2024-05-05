@@ -20,7 +20,7 @@
 
 ```
 pip install pandas
-pipinstall ydata_profiling
+pip install ydata_profiling
 pip install plotly
 pip install streamlit
 pip install streamlit-pandas-profiling
