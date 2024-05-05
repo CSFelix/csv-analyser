@@ -22,6 +22,7 @@
 pip install pandas
 pipinstall ydata_profiling
 pip install plotly
+pip install streamlit
 pip install streamlit-pandas-profiling
 pip install streamlit-option-menu
 pip install streamlit-extras
